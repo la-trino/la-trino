@@ -1,5 +1,5 @@
 ![Illustration](https://github.com/la-trino/la-trino/blob/19c336a2f34127b1581f984ed68d527b0b45ea90/1.%20Cordillera-150.png)
-Inti en la cordillera - _© 2023 Trinidad Cornejo. All rights reserved._
+Inti en la Cordillera - _© 2023 Trinidad Cornejo. All rights reserved._
 
 # About-Me
 
